@@ -1,6 +1,9 @@
 # ReactWebChat
 A quite simple react demo about a public web chat room. You can clone all code and easily run it at [codesandbox](https://codesandbox.io/).
 
+## Online Demo
+[Demo](https://cmz0vb.csb.app/)
+
 ## Preliminary
 * Before running, you should add your own firebase configuration in [firebaseConfig.js](./src/firebaseConfig.js) first.
 * [Firebase](https://console.firebase.google.com/) - Authentication - Sign-in providers - Add Google provider
