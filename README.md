@@ -23,9 +23,9 @@ A quite simple react demo about a public web chat room. You can clone all code a
 
 ## ScreenShots
 <div>
-<img src='./image/sign_in.png' width=280>
-<img src='./image/chat_1.png' width=280>
-<img src='./image/chat_2.png' width=280>
+<img src='./image/sign_in.png' width=250>
+<img src='./image/chat_1.png' width=250>
+<img src='./image/chat_2.png' width=250>
 </div>
 
 # LICENSE
